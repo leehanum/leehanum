@@ -2,7 +2,6 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
      Tech Stacks
   </h2>
-  <br>
 
   <!-- Language / Backend -->
   <div style="font-weight: 600; margin-bottom: 6px;">Language / Backend</div>
