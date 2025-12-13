@@ -1,4 +1,4 @@
-<div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자바 기반 백엔드 개발 </h2> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 학부 시절부터 자바 기반 백엔드 개발에 흥미를 가지고 개발을 이어오고 있습니다. </div>
+<div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한줄 소개 </h2> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 학부 시절부터 자바 기반 백엔드 개발에 흥미를 가지고 개발을 이어오고 있습니다. </div>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
