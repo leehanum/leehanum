@@ -39,3 +39,10 @@
   <!-- Infra -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
+
+## 📜 Certificates
+
+| Organization | Certificate | Score | Period |
+|-------------|------------|-------|--------|
+| 한국산업인력공단 | 정보처리기사 | 합격 | 2025 |
+| IITP | TOPCIT | Level 3 | 2025 |
