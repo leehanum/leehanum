@@ -11,7 +11,7 @@
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-    🛠️ Tech Stacks
+     Tech Stacks
   </h2>
   <br>
 
@@ -40,9 +40,21 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
-## 📜 Certificates
+## Experience
+| Organization | Experience | Period |
+|-------------|-----------|--------|
+| NHN 아카데미 | Java 백엔드 개발 과정 | 2025.07 ~ |
+| 조선대학교 SW중심대학사업단 | Java 프로그래밍 튜터링 조교 활동| 2024.03 ~ 2024.07|
+| 조선대학교 SW중심대학사업단 | Java 프로그래밍 튜터링 조교 활동| 2024.05 ~ 2024.06|
+| 멋쟁이 사자처럼 | 멋쟁이 사자처럼 대학 12기 | 2024.03 ~ 2024.12 |
+
+
+
+## Certificates
 
 | Organization | Certificate | Score | Period |
 |-------------|------------|-------|--------|
-| 한국산업인력공단 | 정보처리기사 | 합격 | 2025 |
+| 한국산업인력공단 | 정보처리기사 | PASS | 2025 |
 | IITP | TOPCIT | Level 3 | 2025 |
+
+
