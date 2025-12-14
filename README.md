@@ -42,6 +42,6 @@
 | Organization | Certificate | Score | Period |
 |-------------|------------|-------|--------|
 | 한국산업인력공단 | 정보처리기사 | PASS | 2025.09 |
-| IITP | TOPCIT | Level 3 | 2025.12 |
+| 정보통신기획평가원(IITP) | TOPCIT | Level 3 | 2025.12 |
 
 
