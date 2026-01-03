@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <br>
   <!-- Database / Messaging -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -29,7 +30,7 @@
 | NHN Academy | Java 백엔드 개발 과정 | 2025.07 ~ |
 | 조선대학교 SW중심대학사업단 | Java 프로그래밍 수업 조교 활동| 2025.03 ~ 2025.07|
 | 조선대학교 SW중심대학사업단 | Java 프로그래밍 튜터링 조교 활동| 2024.05 ~ 2024.06|
-| 한국정보보호학회 호남지부 | 웹취약점경진대회 제5회 본선 진출  | 2024.10 |
+| 한국정보보호학회 호남지부 | 웹 취약점 경진대회 제5회 본선 진출  | 2024.10 |
 | 멋쟁이사자처럼 | 멋사 대학 12기 | 2024.01 ~ 2024.12 |
 
 
