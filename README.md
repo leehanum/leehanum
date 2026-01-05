@@ -1,4 +1,7 @@
-<div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한줄 소개 </h2> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 학부 시절부터 자바 기반 백엔드 개발에 흥미를 가지고 개발을 이어오고 있습니다. </div>
+<div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한줄 소개 </h2> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 !
+단순 기능 구현을 넘어 요청 흐름과 처리 구조를 고민하는 백엔드 개발자입니다.
+학습한 기술을 프로젝트에 적용해 실제 성능을 개선한 경험이 있고,
+학부 시절 자바 튜터링·조교 경험을 통해 기술을 이해하고 설명하는 태도를 갖추었습니다. </div>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
