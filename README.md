@@ -1,5 +1,4 @@
-<div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한줄 소개 </h2> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 !
-단순 기능 구현을 넘어 요청 흐름과 처리 구조를 고민하는 백엔드 개발자입니다. <br>
+<div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한줄 소개 </h2> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
 MSA 기반 프로젝트에서 서비스 간 책임 분리와 비동기 처리 구조를 설계·구현한 경험이 있으며,
 학부 시절 자바 튜터링·조교 활동을 통해 기술을 이해하고 설명하는 태도를 갖추었습니다. </div>
 
@@ -10,19 +9,21 @@ MSA 기반 프로젝트에서 서비스 간 책임 분리와 비동기 처리 �
 
   <!-- Language / Backend -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <br>
   <!-- Database / Messaging -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <br>
   <!-- Infra / DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
