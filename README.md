@@ -1,7 +1,4 @@
-<div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한줄 소개 </h2> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-MSA 기반 프로젝트에서 서비스 간 책임 분리와 비동기 처리 구조를 설계·구현한 경험이 있으며,
-학부 시절 자바 튜터링·조교 활동을 통해 기술을 이해하고 설명하는 태도를 갖추었습니다. </div>
-
+<div style="text-align: left;"> <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
      Tech Stacks
